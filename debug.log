@@ -1,0 +1,2 @@
+[0726/140143.860:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Bagsarah\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[0726/140153.500:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Bagsarah\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
